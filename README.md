@@ -24,8 +24,9 @@ I've organised the exercises by chapters, and cover fundamental programming conc
 These exercises reflect my self-study journey of C++, and serve as a foundation as I want to transition into a more technical career path such as data engineering or software development.
 
 Why starting with C++? 
-I've chosen to learn C++ because of its low-level capabilities, which offer more transparency into how memory allocation, pointers, and performance optimization really work under the hood. Unlike higher-level languages like Python that abstract away many details, C++ exposes these mechanisms directly. By building this foundational knowledge, I aim to develop a deeper technical understanding that will not only improve my skills as a programmer but also give me an advantage when learning other languages and working on performance-critical applications.
+I've chosen to start learning  C++ because I believe it can gives you some solid foundations thanks to its low-level capabilities, which offer more transparency into how memory allocation, pointers, and performance optimization really work under the hood. Unlike higher-level languages like Python that abstract away many details, C++ exposes these mechanisms directly. By building this foundational knowledge, I aim to develop a deeper technical understanding that will not only improve my skills as a programmer but also give me an advantage when learning other languages and working on performance-critical applications.
 
+My next steps will be Python and SQL. 🐍
 ## 💻 Tech Stack
 
 - Language: C++
