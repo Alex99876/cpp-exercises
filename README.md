@@ -1,5 +1,5 @@
 # cpp-exercises
-C++ programming exercises organised by chapter during my self-studying journey.
+C++ programming exercises organised by chapter, from I/O to loops, arrays, pointers and vectors.
 
 # C++ Programming Exercises
 
